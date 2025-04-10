@@ -3,7 +3,7 @@ function anvithaFunFact() {
     const participants = [
         {
             name: "Anvitha",
-            funFact: "I love creativity and design!"
+            funFact: "I love eating ramen!"
         },
     ];
 }
